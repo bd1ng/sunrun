@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+venv
+plants_images
+plant_db.db
