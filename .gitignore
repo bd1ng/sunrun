@@ -1,5 +1,6 @@
 # Ignore .env file
 .env
 venv
-plants_images
+plants_images/
 plant_db.db
+__pycache__/
